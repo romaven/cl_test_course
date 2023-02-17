@@ -3,10 +3,12 @@
   "description": "Знакомство с компанией",
   "details": {
     "intro": {
+      "title": "Тайтл интро",
       "text": "intro.md"
     },
     "steps": [
       {
+        "title": "Тайтл страницы",
         "text": "step1.md"
       }
     ]
